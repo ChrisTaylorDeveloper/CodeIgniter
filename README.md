@@ -1,4 +1,13 @@
 # CodeIgniter 2
+
+## Chris demo for TDL
+Try these urls:<br>
+http://localhost:8123/  
+http://localhost:8123/index.php  
+http://localhost:8123/index.php/home  
+http://localhost:8123/index.php/about
+
+## Original readme
 Open Source PHP Framework (originally from EllisLab)
 
 For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
