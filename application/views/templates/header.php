@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en" class="h-100">
 <head>
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/06da04f7ed52df4cf051bd0e/script.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $title ?> - CI2 Demos</title>
