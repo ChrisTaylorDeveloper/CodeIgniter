@@ -8,7 +8,7 @@
 </head>
 <body class="d-flex flex-column h-100">
 <header>
-    <nav class="navbar navbar-expand-md mb-4">
+    <nav class="navbar navbar-expand-md mb-4 navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="/index.php/home">CI2 Demos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
