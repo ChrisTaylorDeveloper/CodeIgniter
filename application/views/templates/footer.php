@@ -1,6 +1,6 @@
 </div>
 </main>
-<footer class="footer mt-auto py-3 bg-light">
+<footer class="footer mt-auto py-3">
   <div class="container">
     <span class="text-muted">Place sticky footer content here.</span>
     <span class="text-muted"><strong>&copy; 2011</strong></span>
